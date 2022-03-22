@@ -5,6 +5,8 @@ Una clinica veterinaria desea manejar su agenda a traves de un sistema de softwa
 
 ###Instrucciones:
 
+
+0. Realizar FORK de este repositorio.
 1. Clonar este proyecto.
 2. Establecer una conexion de base de datos mysql, el nombre de la base de datos sera "clinica_veterinaria" ["Agregar esta informacion en un archivo .env.example, luego agregarlo en un commit"]
 3. Crear un login basico ["Agregar este login en un commit"]
